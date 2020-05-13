@@ -117,8 +117,16 @@
               "devServerTarget": "to-do-list:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "to-do-list"
+    }
+  },
+  "defaultProject": "to-do-list",
+  "cli": {
+    "analytics": "80111d20-731d-42e6-91fa-fb27aa6030df"
+  }
 }

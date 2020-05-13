@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "to-do-list",
+      "public": "dist/to-do-list",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "skills-website-9f256": {
+      "hosting": {
+        "to-do-list": [
+          "skills-website-9f256"
+        ]
+      }
+    }
+  }
+}
