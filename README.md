@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 this is an application that enables users to manage the data abou the skills that they master .
-They can add the skills that they master and the price for this skill and other data like contact data ) 
+They can add the skills that they master and the price for this skill and other data like contact data . 
 It enables the users to register in the application, login and logout. The user can edit the iformation about his skills 
 and can read the information about the skills which are offered by the other users.
 Every user has a profile and can edit the information in his profile.
